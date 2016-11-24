@@ -1,0 +1,23 @@
+{
+  "name": "multi-page-dev-server-example",
+  "version": "1.0.0",
+  "description": "Solution for multiple page front-end development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/towry/multi-page-dev-server-example.git"
+  },
+  "keywords": [
+    "webpack",
+    "example"
+  ],
+  "author": "Towry Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/towry/multi-page-dev-server-example/issues"
+  },
+  "homepage": "https://github.com/towry/multi-page-dev-server-example#readme"
+}
